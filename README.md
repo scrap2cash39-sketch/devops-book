@@ -14,7 +14,4 @@ For full style documentation visit [squidfunk.github.io](https://squidfunk.githu
 
 ### Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md or README.md  # The documentation homepage.
-        ...                    # Other markdown pages, images and other files.
+
